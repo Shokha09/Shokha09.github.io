@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategray;
+    color: aliceblue;
+}
+h1,h2{
+    color: darkblue;
+    font-family: Georgia;
+}
+strong{
+    color: yellow;
+}
+a{
+    color: red;
+}
+p{
+    font-family: Arial;
+}
